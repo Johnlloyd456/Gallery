@@ -1,6 +1,6 @@
 var slamdunk = [
     {
-        image: "SakuragiS.jpg",
+        image: "sakuragiS.jpg",
         name: "Hanamichi Sakuragi",
         description: "Shohoku Rebound King - Forward"
     },
@@ -10,12 +10,12 @@ var slamdunk = [
         description: "Shohoku Captain - Center"
     },
     {
-        image: "Rukawa.jpg",
+        image: "rukawa.jpg",
         name: "Kaede Rukawa",
         description: "Shohoku Ace - Small Forward"
     },
     {
-        image: "Mitsui.jpg",
+        image: "mitsui.jpg",
         name: "Hisashi Mitsui",
         description: "Shohoku Shooting Guard"
     },
