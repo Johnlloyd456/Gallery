@@ -53,5 +53,10 @@ var slamdunk = [
         image: "Akira Sendou.jpg",
         name: "Akira Sendoh",
         description: "Ryonan Ace player - Forward"
+    }, 
+    {
+        image: "fujima.jpg",
+        name: "Kenji Fujima",
+        description: "Shoyo Player Coach - Point Guard"
     }
 ];
